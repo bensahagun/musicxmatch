@@ -31,7 +31,6 @@ A Next.js application that consumes the MusixMatch API to display top charting a
 ### 1. Clone and Install Dependencies
 
 ```bash
-cd musixmatch-app
 npm install
 ```
 
